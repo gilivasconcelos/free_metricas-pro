@@ -1,4 +1,4 @@
-# 📋 Gerador de Métricas: Teoria + Questões by Sr Dilis
+# 📋 Free-Métricas Pro: Estipulador de Métricas de Estudos com Teoria + Questões by Sr Dilis
 
 Uma aplicação web SPA (Single Page Application) leve, moderna e robusta desenvolvida em HTML5, JavaScript Puro e Bootstrap 5, projetada para transformar editais de concursos públicos em números concretos, calculando o esforço real necessário para a aprovação.
 
